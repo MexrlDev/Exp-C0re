@@ -1,3 +1,4 @@
+// Yes. this one is the one that shows the text + black bg + the buttons pressed text
 #include "core.h"
 #include "hijack.h"
 #include "ui.h"
