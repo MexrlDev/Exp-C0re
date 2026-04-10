@@ -4,7 +4,7 @@
 * Works on 1920 x 1080 (HD)
 
 # Based on..
-* [LuaC0re](https://github.com/Gezine/Luac0re) by Gazine
+* [Lua-C0re](https://github.com/Gezine/Luac0re) by Gazine
 * [emu-c0re](https://github.com/egycnq/EmuC0re) by egycnq
 * [Emu-Building iPhone tools](https://github.com/MexrlDev/Star-Wars-Racer-Revenge-Mods/tree/main/iPhone-Nes-Luncher-Tools) by MexrlDev
 
