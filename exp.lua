@@ -1,5 +1,5 @@
 --[[
-    Example Web Controller
+    Example Web Controller and byte sender
     Based on original work by EgyDevTeam
 ]]--
 
