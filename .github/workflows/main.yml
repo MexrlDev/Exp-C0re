@@ -22,7 +22,7 @@ jobs:
       - name: Verify outputs
         run: |
           ls -lah
-          file example_C0re.elf nes_emu.bin
+          file example_C0re.elf example_C0re.bin
           wc -c example_C0re.bin
 
       - name: Upload build artifacts
