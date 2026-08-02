@@ -6,7 +6,7 @@ import sys
 
 DEFAULT_HOST = "" # <<<< IP HERE!!
 PAYLOAD_PORT = 9026
-DEFAULT_LUA_FILE = "exm.lua"
+DEFAULT_LUA_FILE = "exp.lua"
 
 
 def send_lua(host: str, lua_path: str) -> bool:
