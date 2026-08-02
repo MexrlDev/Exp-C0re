@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="140" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playstation.svg">
-</p>
+> [!WARNING]
+> This project is inactive now and won’t be updated, or maintained. if you want to edit, work on it, or even make your own project using it. then fork the project and modify it as you’d like.
 
 <h1 align="center">EXP-C0RE</h1>
 
